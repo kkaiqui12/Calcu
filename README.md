@@ -1,4 +1,4 @@
-# 🏅 Site de vagas com ReactJS, JS, HTML e CSS.
+# 🏅 Calculadora IMC com ReactJS, JS, HTML e CSS.
 
 ## 🎖️ Ferramentas usadas
 ### 🖥️ ReactJS 
